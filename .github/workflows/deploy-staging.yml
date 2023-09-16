@@ -59,8 +59,8 @@ jobs:
         ###############################################
         ### Replace <username> with GitHub username ###
         ###############################################
-        DOCKER_IMAGE_NAME: <deniz244>-azure-ttt
-        AZURE_WEBAPP_NAME: <deniz244>-ttt-app
+        DOCKER_IMAGE_NAME: <deniztunc244@gmail.com>-azure-ttt
+        AZURE_WEBAPP_NAME: <deniztunc244@gmail.com>-ttt-app
         ###############################################
 
 jobs:
